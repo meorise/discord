@@ -23,7 +23,7 @@
 }
 :root .app-2CXKsg::before {
   top: 80px;
-  right: 116px;
+  right: 150px;
   width: 200px;
   height: 120px;
   background: url("https://i.imgur.com/0nsnP69.png") no-repeat;  
@@ -68,7 +68,7 @@
   right: 430px;
   width: 30px;
   height: 40px;
-  background: url("https://i.imgur.com/JMoXBIs.png") no-repeat;  opacity: 0.5;
+  background: url("https://i.imgur.com/JMoXBIs.png") no-repeat;  
   background-size: 100%;
 }
 @media (max-width: 1350px) {
