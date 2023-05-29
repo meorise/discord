@@ -23,7 +23,7 @@
 }
 :root .app-2CXKsg::before {
   top: 80px;
-  right: 100px;
+  right: 170px;
   width: 200px;
   height: 120px;
   background: url("https://i.imgur.com/0nsnP69.png") no-repeat;
