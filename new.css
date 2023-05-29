@@ -18,7 +18,7 @@
   bottom: 0;
   width: 490px;
   height: 40px;
-  background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;  opacity: 0.3;
+  background: url("https://i.imgur.com/KQQWcTY.png") no-repeat; 
   background-size: 100%;
 }
 :root .app-2CXKsg::before {
