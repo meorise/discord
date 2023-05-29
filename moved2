@@ -9,7 +9,7 @@
   top: 0;
   width: 250px;
   height: 250px;
-  background: url("https://i.imgur.com/jTpFJuI.png") no-repeat;  
+  background: url("https://i.imgur.com/jTpFJuI.png") no-repeat;
   background-size: 100%;
 }
 :root .app-3xd6d0::after {
@@ -18,7 +18,7 @@
   bottom: 0;
   width: 490px;
   height: 40px;
-  background: url("https://i.imgur.com/KQQWcTY.png") no-repeat; 
+  background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
   background-size: 100%;
 }
 :root .app-2CXKsg::before {
@@ -26,7 +26,7 @@
   right: 100px;
   width: 200px;
   height: 120px;
-  background: url("https://i.imgur.com/0nsnP69.png") no-repeat;  
+  background: url("https://i.imgur.com/0nsnP69.png") no-repeat;
   background-size: 100%;
 }
 :root .app-2CXKsg::after {
@@ -43,7 +43,7 @@
   right: 0;
   width: 20px;
   height: 50px;
-  background: url("https://i.imgur.com/WveiFXb.png") no-repeat; 
+  background: url("https://i.imgur.com/WveiFXb.png") no-repeat;
   background-size: 100%;
 }
 :root .layers-OrUESM::after {
@@ -51,7 +51,7 @@
   right: 100px;
   width: 25px;
   height: 25px;
-  background: url("https://i.imgur.com/WBUag7e.png") no-repeat; 
+  background: url("https://i.imgur.com/WBUag7e.png") no-repeat;
   background-size: 100%;
 }
 :root .bg-1QIAus::after {
@@ -59,7 +59,7 @@
   right: 385px;
   width: 30px;
   height: 30px;
-  background: url("https://i.imgur.com/aOYvahh.png") no-repeat; 
+  background: url("https://i.imgur.com/aOYvahh.png") no-repeat;
   background-size: 100%;
 }
 :root .bg-1QIAus::before {
